@@ -8,9 +8,9 @@ Archive of my programming projects and learning journey, featuring early works a
 *Goal: Re-solidify core concepts and bridge the 2-week gap*
 
 ### Phase 1: Data Foundations
-- [ ] Variables & Built-in Functions
-- [ ] Operators & Expressions
-- [ ] Strings & String Methods
+- [x] ~~Variables & Built-in Functions~~
+- [x] ~~Operators & Expressions~~
+- [x] ~~Strings & String Methods~~
 - [ ] Lists & Tuples
 - [ ] Sets & Dictionaries
 
