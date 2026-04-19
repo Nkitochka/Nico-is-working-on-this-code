@@ -11,8 +11,8 @@ Archive of my programming projects and learning journey, featuring early works a
 - [x] ~~Variables & Built-in Functions~~
 - [x] ~~Operators & Expressions~~
 - [x] ~~Strings & String Methods~~
-- [ ] Lists & Tuples
-- [ ] Sets & Dictionaries
+- [x] ~~Lists & Tuples~~
+- [x] ~~Sets & Dictionaries~~
 
 ### Phase 2: Logic & Control Flow
 - [ ] Conditionals (if, else, elif)
