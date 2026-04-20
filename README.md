@@ -18,7 +18,7 @@ Archive of my programming projects and learning journey, featuring early works a
 - [x] ~~Conditionals (if, else, elif)~~
 - [ ] Loops (for, while)
 - [ ] Functions & Scoping
-- [ ] Modules & Imports
+- [x] ~~Modules & Imports~~
 
 ### Phase 3: Advanced Logic
 - [ ] List Comprehension
