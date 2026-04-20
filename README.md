@@ -15,7 +15,7 @@ Archive of my programming projects and learning journey, featuring early works a
 - [x] ~~Sets & Dictionaries~~
 
 ### Phase 2: Logic & Control Flow
-- [ ] Conditionals (if, else, elif)
+- [x] ~~Conditionals (if, else, elif)~~
 - [ ] Loops (for, while)
 - [ ] Functions & Scoping
 - [ ] Modules & Imports
