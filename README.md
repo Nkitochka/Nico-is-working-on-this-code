@@ -16,8 +16,8 @@ Archive of my programming projects and learning journey, featuring early works a
 
 ### Phase 2: Logic & Control Flow
 - [x] ~~Conditionals (if, else, elif)~~
-- [ ] Loops (for, while)
-- [ ] Functions & Scoping
+- [x] ~~Loops (for, while)~~
+- [x] ~~Functions & Scoping~~
 - [x] ~~Modules & Imports~~
 
 ### Phase 3: Advanced Logic
