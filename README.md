@@ -21,7 +21,7 @@ Archive of my programming projects and learning journey, featuring early works a
 - [x] ~~Modules & Imports~~
 
 ### Phase 3: Advanced Logic
-- [ ] List Comprehension
+- [x] ~~List Comprehension~~
 - [ ] Higher Order Functions
 - [ ] Exception Handling (try/except)
 - [ ] Regular Expressions
