@@ -22,8 +22,8 @@ Archive of my programming projects and learning journey, featuring early works a
 
 ### Phase 3: Advanced Logic
 - [x] ~~List Comprehension~~
-- [ ] Higher Order Functions
-- [ ] Exception Handling (try/except)
+- [x] ~~Higher Order Functions~~
+- [x] ~~Exception Handling (try/except)~~
 - [ ] Regular Expressions
 
 ### Phase 4: Systems & Objects
